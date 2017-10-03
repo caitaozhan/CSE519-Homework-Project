@@ -15,7 +15,7 @@ And The report is at /homework-2/report.pdf
 Three members of our team:
 
 1. Xuan Xu, 
-2. Hae-Na Lee, 
+2. Hae-Na Lee, 111207004
 3. Caitao Zhan, 111634527.
 
 --
