@@ -1,12 +1,22 @@
 # CSE519-2017-111634527
-Data Science Fundamentals Homework-2
+Data Science Fundamentals
 
-To Xiaofei Sun,
+Dear **Xiaofei** Sun,
 
-The jupyter notebook is at ./src/homework_2.ipynb
+## **Homework-2**
 
-The report is at ./report.pdf
+The jupyter notebook is at /homework-2/src/homework_2.ipynb. 
 
+And The report is at /homework-2/report.pdf
+
+---
+
+## **Homework-3**
+Three members of our team:
+
+1. Xuan Xu, 
+2. Hae-Na Lee, 111207004
+3. Caitao Zhan, 111634527.
 
 --
 
