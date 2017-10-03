@@ -7,9 +7,9 @@ Dear **Xiaofei** Sun,
 
 The jupyter notebook is at HW2/HW2.ipynb. 
 
-And The report is at /HW2/report.pdf
+And The report is at HW2/report.pdf
 
-Note that I restructured the repository on Oct. 3rd. So the latest timestamp of all the files in HW2 will be on Oct. 3rd.
+**Note** that I restructured the repository on Oct. 3rd. So the latest timestamp of all the files in HW2/ will be on Oct. 3rd.
 
 # **Homework-3**
 Three members of our team:
@@ -18,7 +18,9 @@ Three members of our team:
 2. Hae-Na Lee, 111207004
 3. Caitao Zhan, 111634527.
 
---
+
+
+---
 
 Thanks,
 
