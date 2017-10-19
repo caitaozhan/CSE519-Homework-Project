@@ -21,4 +21,5 @@ Add a feature whenever you come up in mind.
 |Year|
 |Genre|
 |Billboard Ranks|
-
+|Lyrics|
+|Rhythm|
