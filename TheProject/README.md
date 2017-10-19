@@ -30,3 +30,6 @@ Add a feature whenever you come up in mind.
 |Billboard Ranks|
 |Lyrics|
 |Rhythm|
+|Grammy|
+|Albums|
+|Social networks accounts|
