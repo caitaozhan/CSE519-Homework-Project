@@ -34,3 +34,14 @@ Add a feature whenever you come up in mind.
 |Grammy|
 |Albums|
 |Social networks accounts|
+
+
+---
+
+Fill the following table
+
+Name of Song| Release Year | Sale(2017)| Airplay(2017) | Chart Rank (at Release Year)
+:--         |:--           |:--        |:--            |:--                         
+Hey Jude    |1968          |1000       | 1000          | 1
+
+![surprising](./equation.gif)
