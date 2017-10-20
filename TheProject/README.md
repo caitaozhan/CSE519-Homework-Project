@@ -18,6 +18,8 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Billboard metrics](http://www.billboard.com/articles/business/8006673/billboard-charts-adjust-streaming-weighting-2018): Greater emphasis to be given to paid subscription streams with ad-supported activity remaining an important factor in the Billboard Hot 100, Billboard 200 and many other charts.
 
+[Predicting a Song’s Path through the Billboard Hot 100] (https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper
+
 ## Potential data features
 Add a feature whenever you come up in mind.
 
