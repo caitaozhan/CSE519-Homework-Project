@@ -18,15 +18,16 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Billboard metrics](http://www.billboard.com/articles/business/8006673/billboard-charts-adjust-streaming-weighting-2018): Greater emphasis to be given to paid subscription streams with ad-supported activity remaining an important factor in the Billboard Hot 100, Billboard 200 and many other charts.
 
-[Predicting a Song’s Path through the Billboard Hot 100] (https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper
+[Predicting a Song’s Path through the Billboard Hot 100](https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper
 
 ## Potential data features
 Add a feature whenever you come up in mind.
 
 |Feature|
 |:--|
-|Name|
-|Singer|
+|Name of Song|
+|Artist(s)|
+|Songwriter(s)|
 |Company|
 |Year|
 |Genre|
@@ -46,4 +47,4 @@ Name of Song| Release Year | Sale(2017)| Airplay(2017) | Chart Rank (at Release 
 :--         |:--           |:--        |:--            |:--                         
 Hey Jude    |1968          |1000       | 1000          | 1
 
-![surprising](./equation.gif)
+Surprising rate = ![surprising](./equation.gif)
