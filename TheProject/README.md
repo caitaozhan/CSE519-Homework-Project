@@ -22,6 +22,8 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Diamond songs](http://www.billboard.com/articles/news/billboard-lists/7526410/diamond-certified-album-riaa-ranked): A list 90 diamond songs. A diamond song means 10,000,000 shipments.
 
+[Mapping the Hometowns of America's Most Popular Musical Artists](http://thedataface.com/2015/10/culture/mapping-hometowns-billboard-artists)
+
 ## Potential data features
 Add a feature whenever you come up in mind.
 
@@ -39,6 +41,7 @@ Add a feature whenever you come up in mind.
 |Grammy|
 |Albums|
 |Social networks accounts|
+|Rating|
 
 
 ---
