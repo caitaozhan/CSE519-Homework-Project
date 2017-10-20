@@ -16,6 +16,7 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Pop stars in 50 years](http://www.npr.org/sections/allsongs/2015/06/13/413922791/the-good-listener-will-we-remember-today-s-pop-stars-in-50-years): will people remember today's pop stars in 50 years?
 
+[Billboard metrics](http://www.billboard.com/articles/business/8006673/billboard-charts-adjust-streaming-weighting-2018): Greater emphasis to be given to paid subscription streams with ad-supported activity remaining an important factor in the Billboard Hot 100, Billboard 200 and many other charts.
 
 ## Potential data features
 Add a feature whenever you come up in mind.
