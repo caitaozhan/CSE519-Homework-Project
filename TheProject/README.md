@@ -24,6 +24,8 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Mapping the Hometowns of America's Most Popular Musical Artists](http://thedataface.com/2015/10/culture/mapping-hometowns-billboard-artists)
 
+[year end chart billboard hot 100](http://www.bobborst.com/popculture/top-100-songs-of-the-year/?year=1956)
+
 ## Potential data features
 Add a feature whenever you come up in mind.
 
