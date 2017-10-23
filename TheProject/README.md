@@ -20,11 +20,13 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Predicting a Song’s Path through the Billboard Hot 100](https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper
 
-[Diamond songs](http://www.billboard.com/articles/news/billboard-lists/7526410/diamond-certified-album-riaa-ranked): A list 90 diamond songs. A diamond song means 10,000,000 shipments.
+[Diamond songs](http://www.billboard.com/articles/news/billboard-lists/7526410/diamond-certified-album-riaa-ranked): A list 90 diamond albums. A diamond album means 10,000,000 shipments.
 
 [Mapping the Hometowns of America's Most Popular Musical Artists](http://thedataface.com/2015/10/culture/mapping-hometowns-billboard-artists)
 
 [year end chart billboard hot 100](http://www.bobborst.com/popculture/top-100-songs-of-the-year/?year=1956)
+
+[LP and EP vinyl record](https://www.musicindustryhowto.com/difference-lp-ep-music/): The difference between long-play and extended-play vinyl record. I deeply believe technology deeply affects the popularity of a song.
 
 ## Potential data features
 Add a feature whenever you come up in mind.
