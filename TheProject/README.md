@@ -44,6 +44,8 @@ Add a feature whenever you come up in mind.
 |Albums|
 |Social networks accounts|
 |Rating|
+|Technology|
+|Geographic|
 
 
 ---
