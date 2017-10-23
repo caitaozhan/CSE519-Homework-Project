@@ -28,6 +28,10 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [LP and EP vinyl record](https://www.musicindustryhowto.com/difference-lp-ep-music/): The difference between long-play and extended-play vinyl record. I deeply believe technology deeply affects the popularity of a song.
 
+[How does a song become number one](https://splinternews.com/how-does-a-song-become-number-one-1793850261): Includes information how Billboard hot 100 works.
+
+[RIAA Report](http://www.riaa.com/wp-content/uploads/2017/03/RIAA-2016-Year-End-News-Notes.pdf): Analysis of 2016 music data.
+
 ## Potential data features
 Add a feature whenever you come up in mind.
 
