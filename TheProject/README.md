@@ -1,6 +1,6 @@
 # Proposal
 
-Hope we can finish this proposal by Friday 4:00 pm.
+Next meeting: Wednesday, 11/01/2017, 2:00 pm at Old CS 2217.
 
 ## We cooperate the proposal through overleaf.
 
@@ -18,8 +18,6 @@ Hope we can finish this proposal by Friday 4:00 pm.
 
 [Billboard metrics](http://www.billboard.com/articles/business/8006673/billboard-charts-adjust-streaming-weighting-2018): Greater emphasis to be given to paid subscription streams with ad-supported activity remaining an important factor in the Billboard Hot 100, Billboard 200 and many other charts.
 
-[Predicting a Song’s Path through the Billboard Hot 100](https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper
-
 [Diamond songs](http://www.billboard.com/articles/news/billboard-lists/7526410/diamond-certified-album-riaa-ranked): A list 90 diamond albums. A diamond album means 10,000,000 shipments.
 
 [Mapping the Hometowns of America's Most Popular Musical Artists](http://thedataface.com/2015/10/culture/mapping-hometowns-billboard-artists)
@@ -31,6 +29,11 @@ Hope we can finish this proposal by Friday 4:00 pm.
 [How does a song become number one](https://splinternews.com/how-does-a-song-become-number-one-1793850261): Includes information how Billboard hot 100 works.
 
 [RIAA Report](http://www.riaa.com/wp-content/uploads/2017/03/RIAA-2016-Year-End-News-Notes.pdf): Analysis of 2016 music data.
+
+[Predicting a Song’s Path through the Billboard Hot 100](https://pdfs.semanticscholar.org/4b97/7c9a0cca735c10848043f99b01805812edb2.pdf) : research paper by a group of Standford CS 229 students.
+
+[Using Machine Learning Principles to Understand Song Popularity](https://www.cs.purdue.edu/homes/moore269/docs/music.pdf): research paper by a group of Purdue CS 578 students.
+
 
 ## Potential data features
 Add a feature whenever you come up in mind.
@@ -54,12 +57,3 @@ Add a feature whenever you come up in mind.
 |Geographic|
 
 
----
-
-Fill the following table
-
-Name of Song| Release Year | Sale(2017)| Airplay(2017) | Chart Rank (at Release Year)
-:--         |:--           |:--        |:--            |:--                         
-Hey Jude    |1968          |1000       | 1000          | 1
-
-Surprising rate = ![surprising](./equation.gif)
