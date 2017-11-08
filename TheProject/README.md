@@ -35,7 +35,7 @@ Next meeting: Wednesday, 11/01/2017, 2:00 pm at Old CS 2217.
 [Using Machine Learning Principles to Understand Song Popularity](https://www.cs.purdue.edu/homes/moore269/docs/music.pdf): research paper by a group of Purdue CS 578 students.
 
 
-## Song and Rank Data Sites
+### Song and Rank Data Sites
 . Kworb.net – All your music data needs in one place : provides rank based on sales from various sources, but only the current rank (live rank) available
 http://kworb.net/
 
