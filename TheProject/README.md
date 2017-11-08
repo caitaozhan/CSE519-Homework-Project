@@ -35,6 +35,35 @@ Next meeting: Wednesday, 11/01/2017, 2:00 pm at Old CS 2217.
 [Using Machine Learning Principles to Understand Song Popularity](https://www.cs.purdue.edu/homes/moore269/docs/music.pdf): research paper by a group of Purdue CS 578 students.
 
 
+<Song and Rank Data Sites>
+. Kworb.net – All your music data needs in one place : provides rank based on sales from various sources, but only the current rank (live rank) available
+http://kworb.net/
+
+. The World’s Music Charts
+https://tsort.info/music/index.htm
+
+. SONG://DATABASE
+http://www.song-database.com/
+
+. The Million Song Dataset
+https://labrosa.ee.columbia.edu/millionsong/
+
+. The Millon Song Dataset Paper
+http://ismir2011.ismir.net/papers/OS6-1.pdf
+
+. Main Dataset for Evolution of Popular Music USA 2016-2010
+https://figshare.com/articles/Main_Dataset_for_Evolution_of_Popular_Music_USA_1960_2010_/1309953
+
+. 10,000 MTV’s Top Music Artists
+https://gist.github.com/mbejda/9912f7a366c62c1f296c
+
+. MusicBrainz Database
+https://musicbrainz.org/doc/MusicBrainz_Database
+
+. Music CSV Library From the CORGIS Dataset Project
+https://think.cs.vt.edu/corgis/csv/music/music.html
+
+
 ## Potential data features
 Add a feature whenever you come up in mind.
 
