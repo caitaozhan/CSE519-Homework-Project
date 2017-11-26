@@ -1,6 +1,5 @@
-# Proposal
-
-Next meeting: Wednesday, 11/01/2017, 2:00 pm at Old CS 2217.
+## Powerlaw
+Take a look at this article on [popularity and powerlaw](http://www.tandfonline.com/doi/full/10.1080/09298215.2017.1358285). Check out equations (3), (4) and (6).
 
 ## We cooperate the proposal through overleaf.
 
