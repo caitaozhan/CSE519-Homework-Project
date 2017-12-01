@@ -115,7 +115,6 @@ Rank,RankPowerlaw,Artist,Title,Year,SpotifyPlayCount,WikiWordCount
 30,10.59497587,Steve Lawrence,Portrait Of My Love,1961,61982,1304
 91,5.093692001,Steve Lawrence,Go Away Little Girl,1963,208416,1304
 40,8.762749681,Freddie Cannon,Way Down Yonder In New Orleans,1960,190729,1289
-41,8.621099442,Anita Bryant,Paper Roses,1960,2784,2722
 94,4.985808764,Anita Bryant,In My Little Corner Of The World,1960,15789,2722
 42,8.485070759,Larry Verne,Mr. Custer,1960,154240,163
 44,8.228510611,Fendermen,Mule Skinner Blues,1960,257280,230
@@ -157,14 +156,9 @@ Rank,RankPowerlaw,Artist,Title,Year,SpotifyPlayCount,WikiWordCount
 78,5.63920084,Ray Charles,Georgia On My Mind,1960,203180,6315
 19,14.32262507,Ray Charles,Hit The Road Jack,1961,34945564,6315
 60,6.705330284,Ray Charles,One Mint Julep,1961,333918,6315
-2,63.2878297,Ray Charles,I Can't Stop Loving You,1962,1882,6315
 54,7.188199443,Ray Charles,You Don't Know Me,1962,5666493,6315
-55,7.101672245,Ray Charles,Busted,1963,178769,6315
-92,5.057082445,Ray Charles,Take These Chains from My Heart,1963,271692,6315
-52,7.369496097,Ray Charles,Crying Time,1966,176793,6315
 80,5.545754095,Ray Charles,Here We Go Again,1967,10222548,6315
 79,5.59198657,Skip and Flip,Cherry Pie,1960,21703,429
-81,5.500471104,Spencer Ross,Tracy's Theme,1960,3433,271
 82,5.456106733,Lloyd Price,Lady Luck,1960,447560,1034
 83,5.412631479,The Crests,Step By Step,1960,160505,1838
 84,5.370017132,Paul Evans,Happy-Go-Lucky Me,1960,315970,336
@@ -351,7 +345,6 @@ Rank,RankPowerlaw,Artist,Title,Year,SpotifyPlayCount,WikiWordCount
 63,6.49284802,Gene Pitney,(The Man Who Shot) Liberty Valance,1962,782084,2010
 97,4.883493965,Gene Pitney,Town Without Pity,1962,1116175,2010
 27,11.35794904,Gene Pitney,It Hurts to Be in Love,1964,167640,2010
-64,6.425711417,The Duprees,You Belong To Me,1962,6427,645
 66,6.296526022,Joe Henderson,Snap Your Fingers,1962,49211,1173
 68,6.173680038,Chris Montez,Let's Dance,1962,2039928,1050
 94,4.985808764,Chris Montez,The More I See You,1966,1293165,1050
@@ -473,7 +466,6 @@ Rank,RankPowerlaw,Artist,Title,Year,SpotifyPlayCount,WikiWordCount
 81,5.500471104,Doris Troy,Just One Look,1963,2024598,542
 82,5.456106733,Allan Sherman,"Hello Muddah, Hello Faddah! (A Letter from Camp)",1963,445104,3735
 84,5.370017132,Rolf Harris,"Tie Me Kangaroo Down, Sport",1963,699358,5391
-90,5.130975533,Dixie Belles,(Down At) Papa Joe's,1963,20417,246
 93,5.021127552,Sunny and the Sunglows,Talk to Me,1963,58419,334
 99,4.818155049,Bobby Bare,500 Miles,1963,2379488,1533
 1,100,The Beatles,I Want to Hold Your Hand,1964,48975471,14112
@@ -525,13 +517,9 @@ Rank,RankPowerlaw,Artist,Title,Year,SpotifyPlayCount,WikiWordCount
 19,14.32262507,The Ray Charles Singers,Love Me with All Your Heart (Cuando Calienta El Sol),1964,11797,1894
 21,13.40711287,The Dixie Cups,Chapel of Love,1964,6887338,963
 22,13.00172664,Terry Stafford,Suspicion,1964,747126,603
-23,12.62582101,The Dave Clark Five,Glad All Over,1964,484409,1911
-45,8.107365283,The Dave Clark Five,Bits and Pieces,1964,75675,1911
 63,6.49284802,The Dave Clark Five,Because,1964,233636,1911
 67,6.234342105,The Dave Clark Five,Can't You See That She's Mine,1964,5883,1911
 91,5.093692001,The Dave Clark Five,Do You Love Me,1964,5876,1911
-54,7.188199443,The Dave Clark Five,Catch Us If You Can,1965,14108,1911
-80,5.545754095,The Dave Clark Five,I Like It Like That,1965,5962,1911
 26,11.64441273,The Newbeats,Bread and Butter,1964,469577,566
 30,10.59497587,Peter and Gordon,A World Without Love,1964,2782696,951
 75,5.787081068,Peter and Gordon,I Go to Pieces,1965,806850,951
