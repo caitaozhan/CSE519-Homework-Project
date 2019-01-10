@@ -1,6 +1,6 @@
 # Data Science Fundamentals
 
-
+My rating on the professor: [01/23/2018](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=394782)
 
 # **Homework-2**
 
